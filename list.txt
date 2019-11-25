@@ -782,6 +782,7 @@ piçlik
 orospucocudur
 oruspucocudur
 kaşarsın
+kaşarsınız
 kaşarin
 kaşarın
 şerefsizin
