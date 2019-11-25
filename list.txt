@@ -143,6 +143,8 @@ sıkmek
 sikimi
 sikin
 siktin
+siktik
+siktikten
 sikesim
 sikmesin
 sikicekse
