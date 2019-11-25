@@ -1398,6 +1398,11 @@ siktimiğ
 yarranı
 sikrm
 sövcem
+dovcez
+dövcez
+dövücez
+döveriz
+doveriz
 dövecem
 öldürücem
 oldürcem
