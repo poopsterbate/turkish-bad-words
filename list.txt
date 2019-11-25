@@ -1398,6 +1398,9 @@ yarranı
 sikrm
 sövcem
 dövecem
+öldürücem
+oldürcem
+öldurcem
 öldüresiye
 lezbiyenmisin
 azmak
