@@ -223,6 +223,7 @@ sıçarım
 sıçık
 sıçıcam
 sıçacam
+sıcacam
 mal
 malsın
 malsin
