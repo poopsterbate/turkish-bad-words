@@ -286,6 +286,8 @@ dovecez
 dövelim
 dövün
 kaşmer
+dovdugu
+dövdüm
 döverim
 dövim
 dövücem
