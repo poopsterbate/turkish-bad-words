@@ -202,6 +202,8 @@ bokunuzla
 bokuma
 bokmu
 boksun
+boksunuz
+boksaniz
 mk
 mq
 amq
