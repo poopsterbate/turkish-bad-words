@@ -543,6 +543,7 @@ orospudur
 orospunun
 orospuydu
 orospuyuz
+orospuluk
 orrospu
 oruspuçocuğu
 ossurduum
