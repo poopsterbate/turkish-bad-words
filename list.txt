@@ -231,6 +231,8 @@ malmısın
 yavşak
 yavşaksın
 yavsak
+yavsaksın
+yavsaksin
 pezeveng
 şerefsiz
 şerefsizler
@@ -599,6 +601,8 @@ puşttur
 salaak
 serefsiz
 sıçtığım
+sıçtı
+sıçtın
 sıecem
 sicarsin
 sie
