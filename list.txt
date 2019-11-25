@@ -1211,6 +1211,9 @@ götsünüz
 piçsiniz
 kıçınız
 kıçınıza
+kıçın
+kıçına
+kıçını
 odun
 ammına
 siktr
