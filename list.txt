@@ -320,6 +320,7 @@ kaşmer
 dovdugu
 dövdüm
 döverim
+döversin
 dövim
 dövücem
 dovecem
