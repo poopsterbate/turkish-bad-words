@@ -1459,6 +1459,7 @@ sikermisin
 öperiz
 orspu
 orsbu
+orsb
 sg
 öpüşüosun
 öpüştünüz
