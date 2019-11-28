@@ -1544,6 +1544,8 @@ oropsudur
 yollusun
 orospucocu
 seviştinmi
+sevistinmi
+sevistin
 dovdun
 dassani
 siktirsingitsin
