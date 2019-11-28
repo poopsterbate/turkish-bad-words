@@ -73,6 +73,7 @@ sikişel
 sikle
 sikme
 siktir
+sikdirtmeyin
 sktr
 siktiği
 sokarım
